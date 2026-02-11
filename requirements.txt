@@ -1,0 +1,11 @@
+pydantic==2.12.4
+requests==2.32.5
+python-dotenv==1.2.1
+supadata==1.5.0
+openai==2.18.0
+agenta==0.84.1
+pinecone==8.0.0
+langchain-text-splitters==1.1.0
+flask==3.1.2
+apscheduler==3.10.4
+pytz==2024.1
